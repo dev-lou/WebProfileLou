@@ -13,7 +13,7 @@ const FriendsGallery = () => {
       'Shame', 'Andro', 'Jan Laurence', 'Lawrence', 'Dennis', 'Ed', 'Jerell',
       'Allyxis', 'Jhon Lawrence', 'Eric', 'Nicos', 'Selwyn', 'Clarenze', 'Hansel',
       'Mark', 'Mike', 'Jero'
-    ].map(name => ({ name, image: '/default.png' })),
+    ].map(name => ({ name, image: '/default.jpg' })),
     
     female: [
       'Kath', 'Ally', 'Kate', 'Juliene', 'Kyra', 'Kia Mae', 'Rosalyn', 'Mary Charlyn',
