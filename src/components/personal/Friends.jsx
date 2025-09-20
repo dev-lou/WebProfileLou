@@ -5,14 +5,14 @@ import { Link } from 'react-router-dom';
 const Friends = () => {
   const preview = {
     male: [
-      { name: 'Karl', image: '/default.png' },
-      { name: 'Jeff', image: '/default.png' },
-      { name: 'Frenzy', image: '/default.png' },
+      { name: 'Karl', image: '/default.jpg' },
+      { name: 'Jeff', image: '/default.jpg' },
+      { name: 'Frenzy', image: '/default.jpg' },
     ],
     female: [
-      { name: 'Kath', image: '/default.png' },
-      { name: 'Ally', image: '/default.png' },
-      { name: 'Kate', image: '/default.png' },
+      { name: 'Kath', image: '/default.jpg' },
+      { name: 'Ally', image: '/default.jpg' },
+      { name: 'Kate', image: '/default.jpg' },
     ]
   };
 
